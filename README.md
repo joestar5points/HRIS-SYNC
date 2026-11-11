@@ -196,6 +196,8 @@ This found three bugs, all now fixed:
 - A change to First Name or Last Name is not applied or flagged. The UPN and email are left alone on purpose, as renaming them is best done with manual intervention
 - There's no bulk limit on creates. Anyone who can write to the input location could create accounts. In production, the drop location would be writable only by the HRIS integration, and a create limit like the disable limit would be worth adding.
 - Certain names can break the email cleanse command. It will flag as failed instead of ManualReview but still needs attention
+- With the `--today` command it can be manipulated to go into the past even if you've preformed actions in the future. Don't invoke `--today` in the past if you've already used it
+- Timestamps are generated from real time like the real system even if you set the date to another date using `--today`
 
 ## What I would change for production
 
