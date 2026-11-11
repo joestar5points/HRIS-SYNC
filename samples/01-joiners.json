@@ -1,0 +1,68 @@
+[
+  {
+    "employeeId": "E1042",
+    "status": "Active",
+    "firstName": "Asha",
+    "lastName": "Patel",
+    "department": "Quality",
+    "managerEmployeeId": "E1008",
+    "startDate": "2026-10-30",
+    "endDate": null,
+    "email": null
+  },
+  {
+    "employeeId": "E1043",
+    "status": "Active",
+    "firstName": "Ben",
+    "lastName": "Carter",
+    "department": "Finance",
+    "managerEmployeeId": "E1008",
+    "startDate": "2026-11-06",
+    "endDate": null,
+    "email": null
+  },
+  {
+    "employeeId": "E1045",
+    "status": "Active",
+    "firstName": "Eve",
+    "lastName": "Green",
+    "department": "IT",
+    "managerEmployeeId": "E1008",
+    "startDate": "2026-10-31",
+    "endDate": null,
+    "email": "e.green@contoso.com"
+  },
+  {
+    "employeeId": "E1050",
+    "status": "Active",
+    "firstName": "Hana",
+    "lastName": "Kim",
+    "department": "Quality",
+    "managerEmployeeId": "E1008",
+    "startDate": "2026-11-28",
+    "endDate": null,
+    "email": null
+  },
+  {
+    "employeeId": "E1051",
+    "status": "Active",
+    "firstName": "Ivo",
+    "lastName": "Novak",
+    "department": "Quality",
+    "managerEmployeeId": "E1008",
+    "startDate": "2026-10-29",
+    "endDate": null,
+    "email": null
+  },
+  {
+    "employeeId": "E9001",
+    "status": "Active",
+    "firstName": "Theo",
+    "lastName": "Grant",
+    "department": "Operations",
+    "managerEmployeeId": "E1008",
+    "startDate": "2026-10-30",
+    "endDate": null,
+    "email": null
+  }
+]

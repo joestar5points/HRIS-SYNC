@@ -1,0 +1,68 @@
+[
+  {
+    "employeeId": "E2001",
+    "status": "Active",
+    "firstName": "Jo",
+    "lastName": "Mills",
+    "department": "Quality",
+    "managerEmployeeId": "E1008",
+    "startDate": "2023-06-12",
+    "endDate": null,
+    "email": "jo.mills@contoso.com"
+  },
+  {
+    "employeeId": "E2002",
+    "status": "Active",
+    "firstName": "Kai",
+    "lastName": "Lund",
+    "department": "Finance",
+    "managerEmployeeId": "E1008",
+    "startDate": "2022-09-05",
+    "endDate": null,
+    "email": "kai.lund@contoso.com"
+  },
+  {
+    "employeeId": "E3001",
+    "status": "Leaver",
+    "firstName": "Lena",
+    "lastName": "Ross",
+    "department": "Quality",
+    "managerEmployeeId": "E1008",
+    "startDate": "2020-01-06",
+    "endDate": "2026-11-04",
+    "email": "lena.ross@contoso.com"
+  },
+  {
+    "employeeId": "E3002",
+    "status": "Active",
+    "firstName": "Max",
+    "lastName": "Ortiz",
+    "department": "Finance",
+    "managerEmployeeId": "E1008",
+    "startDate": "2021-04-19",
+    "endDate": "2026-10-29",
+    "email": "max.ortiz@contoso.com"
+  },
+  {
+    "employeeId": "E3003",
+    "status": "Terminated",
+    "firstName": "Nia",
+    "lastName": "Shaw",
+    "department": "IT",
+    "managerEmployeeId": "E1000",
+    "startDate": "2019-02-11",
+    "endDate": "2026-11-02",
+    "email": "nia.shaw@contoso.com"
+  },
+  {
+    "employeeId": "E3006",
+    "status": "Active",
+    "firstName": "Yara",
+    "lastName": "Ali",
+    "department": "Finance",
+    "managerEmployeeId": "E1008",
+    "startDate": "2022-02-14",
+    "endDate": "2026-11-27",
+    "email": "yara.ali@contoso.com"
+  }
+]

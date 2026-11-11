@@ -1,0 +1,68 @@
+[
+  {
+    "employeeId": "E4001",
+    "status": "Active",
+    "firstName": "Quinn",
+    "lastName": "Doyle",
+    "department": "IT",
+    "managerEmployeeId": "E1008",
+    "startDate": "2025-01-13",
+    "endDate": null,
+    "email": null
+  },
+  {
+    "employeeId": "E8001",
+    "status": "Active",
+    "firstName": "Rosa",
+    "lastName": "Lim",
+    "department": "Quality",
+    "managerEmployeeId": "E1008",
+    "startDate": "2026-10-30",
+    "endDate": null,
+    "email": null
+  },
+  {
+    "employeeId": "E8001",
+    "status": "Active",
+    "firstName": "Rosa",
+    "lastName": "Lim",
+    "department": "Finance",
+    "managerEmployeeId": "E1008",
+    "startDate": "2026-10-30",
+    "endDate": null,
+    "email": null
+  },
+  {
+    "employeeId": null,
+    "status": "Active",
+    "firstName": "Uma",
+    "lastName": "Shah",
+    "department": "Quality",
+    "managerEmployeeId": "E1008",
+    "startDate": "2026-10-30",
+    "endDate": null,
+    "email": null
+  },
+  {
+    "employeeId": "E7002",
+    "status": "Retired",
+    "firstName": "Vic",
+    "lastName": "Reyes",
+    "department": "Finance",
+    "managerEmployeeId": "E1008",
+    "startDate": "2015-05-05",
+    "endDate": null,
+    "email": null
+  },
+  {
+    "employeeId": "E7003",
+    "status": "Active",
+    "firstName": "Wen",
+    "lastName": "Zhao",
+    "department": "IT",
+    "managerEmployeeId": "E1008",
+    "startDate": "30/10/2026",
+    "endDate": null,
+    "email": null
+  }
+]

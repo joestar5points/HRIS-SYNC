@@ -1,0 +1,33 @@
+[
+  {"employeeId": "E1008", "status": "Active", "firstName": "Morgan", "lastName": "Hale", "department": "Quality", "managerEmployeeId": "E1000", "startDate": "2024-03-01", "endDate": null, "email": "morgan.hale@contoso.com"},
+
+  {"employeeId": "E1042", "status": "Active", "firstName": "Asha", "lastName": "Patel", "department": "Quality", "managerEmployeeId": "E1008", "startDate": "2026-10-30", "endDate": null, "email": null},
+  {"employeeId": "E1043", "status": "Active", "firstName": "Ben", "lastName": "Carter", "department": "Finance", "managerEmployeeId": "E1008", "startDate": "2026-11-06", "endDate": null, "email": null},
+  {"employeeId": "E1044", "status": "Active", "firstName": "Dan", "lastName": "Wright", "department": "IT", "managerEmployeeId": "E1008", "startDate": "2026-10-31", "endDate": null, "email": "dan.wright@contoso.com"},
+  {"employeeId": "E1045", "status": "Active", "firstName": "Eve", "lastName": "Green", "department": "IT", "managerEmployeeId": "E1008", "startDate": "2026-10-31", "endDate": null, "email": "e.green@contoso.com"},
+  {"employeeId": "E1046", "status": "Active", "firstName": "Femi", "lastName": "Adeyemi", "department": "Operations", "managerEmployeeId": "E9999", "startDate": "2026-11-01", "endDate": null, "email": null},
+  {"employeeId": "E1050", "status": "Active", "firstName": "Hana", "lastName": "Kim", "department": "Quality", "managerEmployeeId": "E1008", "startDate": "2026-11-28", "endDate": null, "email": null},
+  {"employeeId": "E1051", "status": "Active", "firstName": "Ivo", "lastName": "Novak", "department": "Quality", "managerEmployeeId": "E1008", "startDate": "2026-10-29", "endDate": null, "email": null},
+
+  {"employeeId": "E2001", "status": "Active", "firstName": "Jo", "lastName": "Mills", "department": "Quality", "managerEmployeeId": "E1008", "startDate": "2023-06-12", "endDate": null, "email": "jo.mills@contoso.com"},
+  {"employeeId": "E2002", "status": "Active", "firstName": "Kai", "lastName": "Lund", "department": "Finance", "managerEmployeeId": "E1008", "startDate": "2022-09-05", "endDate": null, "email": "kai.lund@contoso.com"},
+
+  {"employeeId": "E3001", "status": "Leaver", "firstName": "Lena", "lastName": "Ross", "department": "Quality", "managerEmployeeId": "E1008", "startDate": "2020-01-06", "endDate": "2026-11-04", "email": "lena.ross@contoso.com"},
+  {"employeeId": "E3002", "status": "Active", "firstName": "Max", "lastName": "Ortiz", "department": "Finance", "managerEmployeeId": "E1008", "startDate": "2021-04-19", "endDate": "2026-10-29", "email": "max.ortiz@contoso.com"},
+  {"employeeId": "E3003", "status": "Terminated", "firstName": "Nia", "lastName": "Shaw", "department": "IT", "managerEmployeeId": "E1000", "startDate": "2019-02-11", "endDate": "2026-11-02", "email": "nia.shaw@contoso.com"},
+  {"employeeId": "E3006", "status": "Active", "firstName": "Yara", "lastName": "Ali", "department": "Finance", "managerEmployeeId": "E1008", "startDate": "2022-02-14", "endDate": "2026-11-27", "email": "yara.ali@contoso.com"},
+  {"employeeId": "E3004", "status": "Leaver", "firstName": "Omar", "lastName": "Haddad", "department": "Quality", "managerEmployeeId": "E1008", "startDate": "2018-07-02", "endDate": "2026-10-28", "email": "omar.haddad@contoso.com"},
+  {"employeeId": "E3005", "status": "Leaver", "firstName": "Pia", "lastName": "Berg", "department": "Finance", "managerEmployeeId": "E1008", "startDate": "2026-08-29", "endDate": "2026-10-12", "email": null},
+
+  {"employeeId": "E4001", "status": "Active", "firstName": "Quinn", "lastName": "Doyle", "department": "IT", "managerEmployeeId": "E1008", "startDate": "2025-01-13", "endDate": null, "email": null},
+
+  {"employeeId": "E8001", "status": "Active", "firstName": "Rosa", "lastName": "Lim", "department": "Quality", "managerEmployeeId": "E1008", "startDate": "2026-10-30", "endDate": null, "email": null},
+  {"employeeId": "E8001", "status": "Active", "firstName": "Rosa", "lastName": "Lim", "department": "Finance", "managerEmployeeId": "E1008", "startDate": "2026-10-30", "endDate": null, "email": null},
+
+  {"employeeId": "E9001", "status": "Active", "firstName": "Theo", "lastName": "Grant", "department": "Operations", "managerEmployeeId": "E1008", "startDate": "2026-10-30", "endDate": null, "email": null},
+
+  {"employeeId": null, "status": "Active", "firstName": "Uma", "lastName": "Shah", "department": "Quality", "managerEmployeeId": "E1008", "startDate": "2026-10-30", "endDate": null, "email": null},
+  {"employeeId": "E7002", "status": "Retired", "firstName": "Vic", "lastName": "Reyes", "department": "Finance", "managerEmployeeId": "E1008", "startDate": "2015-05-05", "endDate": null, "email": null},
+  {"employeeId": "E7003", "status": "Active", "firstName": "Wen", "lastName": "Zhao", "department": "IT", "managerEmployeeId": "E1008", "startDate": "30/10/2026", "endDate": null, "email": null},
+  {"employeeId": "E7004", "status": "Active", "firstName": "Xavi", "lastName": "Ruiz", "department": "IT", "managerEmployeeId": "E1008", "startDate": "2026-10-30", "endDate": "2026-09-28", "email": null}
+]

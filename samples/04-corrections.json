@@ -1,0 +1,46 @@
+[
+  {
+    "employeeId": "E7003",
+    "status": "Active",
+    "firstName": "Wen",
+    "lastName": "Zhao",
+    "department": "IT",
+    "managerEmployeeId": "E1008",
+    "startDate": "2026-10-30",
+    "endDate": null,
+    "email": null
+  },
+  {
+    "employeeId": "E1050",
+    "status": "Active",
+    "firstName": "Hana",
+    "lastName": "Kim",
+    "department": "Quality",
+    "managerEmployeeId": "E1008",
+    "startDate": "2026-11-22",
+    "endDate": null,
+    "email": null
+  },
+  {
+    "employeeId": "E1043",
+    "status": "Leaver",
+    "firstName": "Ben",
+    "lastName": "Carter",
+    "department": "Finance",
+    "managerEmployeeId": "E1008",
+    "startDate": "2026-11-06",
+    "endDate": "2026-11-17",
+    "email": null
+  },
+  {
+    "employeeId": "E2001",
+    "status": "Active",
+    "firstName": "Jo",
+    "lastName": "Mills",
+    "department": "IT",
+    "managerEmployeeId": "E1008",
+    "startDate": "2023-06-12",
+    "endDate": null,
+    "email": "jo.mills@contoso.com"
+  }
+]
